@@ -1,16 +1,13 @@
-### Hi there 👋
+![](https://cdn.jsdelivr.net/gh/Apocalypsor/Apocalypsor@master/Saber.jpeg)
 
-<!--
-**Apocalypsor/Apocalypsor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>
+  <h1 align="center">
+    <b>Hello there, I'm <a href="https://github.com/Apocalypsor">@Apocalypsor</a>, a totally noob 👋</b>
+  </h1>
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://github.com/wei">
+    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Apocalypsor&show_icons=true&theme=graywhite&count_private=true&include_all_commits=true" />
+  </a>
+</p>
