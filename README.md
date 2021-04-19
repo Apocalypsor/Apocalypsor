@@ -8,6 +8,6 @@
 
 <p align="center">
   <a href="https://github.com/Apocalypsor">
-    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Apocalypsor&show_icons=true&theme=graywhite&count_private=true&include_all_commits=true" />
+    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Apocalypsor&show_icons=true&theme=dracula&count_private=true&include_all_commits=false" />
   </a>
 </p>
