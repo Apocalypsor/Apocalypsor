@@ -10,4 +10,4 @@
   </a>
 </p>
 
-![](https://raw.dov.moe/Apocalypsor/Apocalypsor/master/Saber.jpeg)
+<script async defer data-website-id="20e1d776-a824-43b7-bab2-560cb6dca6db" src="https://stats.dov.moe/block.js"></script>
