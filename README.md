@@ -9,6 +9,7 @@
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 25px></picture> **About me**
 Master's student at UPenn, majoring in Computer Information Science and Systems Engineering. Passionate about web development, machine learning, and open-source contributions.
 
+<br>
 <!--STARTS_HERE_QUOTE_README-->
 <i>❝Sony released a kit that allows PS2s (Linux for PlayStation 2) to be used as a personal computer.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
