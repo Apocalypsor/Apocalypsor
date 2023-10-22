@@ -1,5 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=32&pause=1000&random=false&width=800&lines=Hello+there%2C+I'm+%40Apocalypsor%F0%9F%91%8B)](https://git.io/typing-svg)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Apocalypsor/Apocalypsor/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Apocalypsor/Apocalypsor/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
+
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 25px></picture> **About me**
 Master's student at UPenn, majoring in Computer Information Science and Systems Engineering. Passionate about web development, machine learning, and open-source contributions.
 
