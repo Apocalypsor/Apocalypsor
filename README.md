@@ -11,7 +11,5 @@ Master's student at UPenn, majoring in Computer Information Science and Systems 
 
 ## <picture><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"></picture> **Stats**
 
-<p align="center">
-  <img height="143px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Apocalypsor&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" alt="GitHub Language Stats" />
-  <img height="143px" src="UniversityofPennsylvania_FullLogo.jpg" alt="University of Pennsylvania Logo" />
-</p>
+![Github Profile](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Apocalypsor&theme=default)
+![Github Repos](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Apocalypsor&theme=default) ![Github Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Apocalypsor&theme=default)
