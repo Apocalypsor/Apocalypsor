@@ -10,6 +10,7 @@
 Master's student at UPenn, majoring in Computer Information Science and Systems Engineering. Passionate about web development, machine learning, and open-source contributions.
 
 <!--STARTS_HERE_QUOTE_README-->
+<i>❝Sony released a kit that allows PS2s (Linux for PlayStation 2) to be used as a personal computer.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 ## <picture><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 25px></picture> **Skills**
