@@ -1,6 +1,4 @@
-<h1>
-    <b>Hello there, I'm <a href="https://github.com/Apocalypsor">@Apocalypsor</a>👋</b>
-</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hello+there%2C+I'm+%40Apocalypsor%F0%9F%91%8B)](https://git.io/typing-svg)
 
 ### About Me
 Master's student at UPenn, majoring in Computer Information Science and Systems Engineering. Passionate about web development, machine learning, and open-source contributions.
