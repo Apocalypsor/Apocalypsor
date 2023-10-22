@@ -12,4 +12,3 @@ Master's student at UPenn, majoring in Computer Information Science and Systems 
 ## <picture><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"></picture> **Stats**
 
 ![Github Profile](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Apocalypsor&theme=default)
-![Github Repos](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Apocalypsor&theme=default) ![Github Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Apocalypsor&theme=default)
