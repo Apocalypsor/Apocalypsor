@@ -11,7 +11,7 @@ Master's student at UPenn, majoring in Computer Information Science and Systems 
 
 <br>
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“It is easier to change the specification to fit the program than vice versa.”— Alan Perlis   ❞</i>
+<i>❝“Code generation, like drinking alcohol, is good in moderation.”— Alex Lowe   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 <br>
