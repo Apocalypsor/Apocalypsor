@@ -11,7 +11,7 @@ Master's student at UPenn, majoring in Computer Information Science and Systems 
 
 <br>
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“From a programmer’s point of view, the user is a peripheral that types when you issue a read request.”— P. Williams   ❞</i>
+<i>❝The Ultra NVidia GeForce 6800 video card was built with 222 million transistors and considered among the best todate.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 <br>
