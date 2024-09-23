@@ -6,7 +6,7 @@
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
 
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 25px></picture> **About me**
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/23ae39e7d555d0dc908244db8846032fb5c5390d/assets/mdImages/about_me.gif" width = 25px></picture> **About me**
 Master's student at UPenn, majoring in Computer Information Science and Systems Engineering. Passionate about web development, machine learning, and open-source contributions.
 
 <br>
