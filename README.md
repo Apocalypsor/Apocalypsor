@@ -11,7 +11,7 @@ Master's student at UPenn, majoring in Computer Information Science and Systems 
 
 <br>
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“Some people, when confronted with a problem, think ‘I know, I’ll use regular expressions.’  Now they have two problems.”— Jamie Zawinski   ❞</i>
+<i>❝“It has been discovered that C++ provides a remarkable facility for concealing the trivial details of a program — such as where its bugs are.”— David Keppel   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 <br>
