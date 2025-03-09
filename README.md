@@ -11,7 +11,7 @@ Master's student at UPenn, majoring in Computer Information Science and Systems 
 
 <br>
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“The great thing about predictions is that you can be wrong.”— Chris Wiggins❞</i>
+<i>❝Russians made a computer that ran on water in the mid of 1936.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 <br>
