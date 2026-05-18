@@ -11,7 +11,7 @@ Master's student at UPenn, majoring in Computer Information Science and Systems 
 
 <br>
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“I think it’s a new feature.  Don’t tell anyone it was an accident.”— Larry Wall   ❞</i>
+<i>❝“We have to stop optimizing for programmers and start optimizing for users.”— Jeff Atwood   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 <br>
