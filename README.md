@@ -25,4 +25,4 @@ Software Engineer
 
 ## <picture><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"></picture> **Stats**
 
-![Github Profile](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Apocalypsor&theme=default)
+[![GitHub Pulse](https://github-pulse-topaz.vercel.app/u/Apocalypsor)](https://github-pulse-topaz.vercel.app)
